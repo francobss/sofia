@@ -1,0 +1,51 @@
+
+@media (max-width: 575.98px){
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+    .containertit{
+        margin: 0 20px;
+    }
+    .titulo{
+        display: flex;
+        justify-content: center;
+        background-color: rgb(226, 43, 217);
+    }
+    .titulo2{
+        display: flex;
+        justify-content: center;
+        border: 1px solid;
+        border-color: rgb(226, 43, 217);
+    }
+    .acomodar{
+        display: flex;
+        justify-content: center;
+        margin: 0 20px;
+    }
+    .feliz{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0 10px;
+    }
+    .enojado{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        margin: 0 10px;
+    }
+    .imag {
+        height: 100%;
+        width: 100px;
+    }
+    .boton{
+        text-decoration: none;
+    }
+    .botonp{
+        display: flex;
+        justify-content: center;
+        color: rgb(177, 0, 0);
+        font-weight: bold;
+        border: 1px solid;
+    }
+}
